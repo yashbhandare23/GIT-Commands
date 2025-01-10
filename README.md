@@ -1,2 +1,3 @@
 # GIT-Commands
-Git Clone, Add, Commit, Push, Pull, Checkout, Branch, Status
+Git is the free and open source distributed version control system that's responsible for everything GitHub
+related that happens locally on your computer.
